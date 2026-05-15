@@ -1,0 +1,77 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "fi fi-es",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "fi fi-fr",
+      "date": "2027-08-20T12:00:00.000Z",
+      "notes": "",
+      "position": {
+        "lat": 48.8588897,
+        "lng": 2.3200410217200766
+      },
+      "id": "12345678"
+    },
+    {
+      "cityName": "New York",
+      "country": "United States",
+      "emoji": "fi fi-us",
+      "date": "2027-09-10T18:30:00.000Z",
+      "notes": "",
+      "position": {
+        "lat": 40.7127753,
+        "lng": -74.0059728
+      },
+      "id": "87654321"
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "date": "2026-05-14T17:49:15.137Z",
+      "emoji": "fi fi-es",
+      "notes": "",
+      "position": {
+        "lat": "39.99934746834736",
+        "lng": "0.0012016296386718752"
+      },
+      "id": "dbbj0iCIAgQ"
+    },
+    {
+      "cityName": "Burriana",
+      "country": "Spain",
+      "date": "2026-05-14T18:15:21.616Z",
+      "emoji": "fi fi-es",
+      "notes": "",
+      "position": {
+        "lat": "39.921980813878044",
+        "lng": "-0.06231307983398438"
+      },
+      "id": "jI_tQ5FYqus"
+    },
+    {
+      "cityName": "Quwaysina",
+      "country": "Egypt",
+      "date": "2026-05-15T12:03:53.944Z",
+      "emoji": "fi fi-eg",
+      "notes": "",
+      "position": {
+        "lat": "30.530103",
+        "lng": "31.09921575"
+      },
+      "id": "pCAVEQc7a-U"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
