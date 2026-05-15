@@ -1,7 +1,7 @@
 import styles from "./CountryList.module.css";
 import Spinner from "./Spinner";
 import CountryItem from "./CountryItem";
-import PageNotFound from "../Pages/PageNotFound";
+import PageNotFound from "../pages/PageNotFound";
 import Message from "./Message";
 import { useCities } from "../Contexts/CitiesContext";
 
